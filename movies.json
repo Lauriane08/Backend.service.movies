@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Dune",
+        "genre": "Science fiction",
+        "synopsis": "Dans le futur, la famille noble des Atréides est envoyée sur la planète désertique d'Arrakis, la seule source de l'épice, une ressource essentielle à la navigation interstellaire. Mais des forces sinistres se dressent contre eux.",
+        "year": 2023,
+        "director": "Denis Villeneuve"
+    },
+    {
+        "id": 2,
+        "title": "Top Gun : Maverick",
+        "genre": "Action",
+        "synopsis": "Dans cette suite du classique des années 80, le pilote de chasse Pete 'Maverick' Mitchell retourne à Top Gun, l'école de pilotage de l'US Navy, pour former une nouvelle génération de pilotes de chasse.",
+        "year": 2022,
+        "director": "Joseph Kosinski"
+    },
+    {
+        "id": 3,
+        "title": "Black Panther : Wakanda Forever",
+        "genre": "Action",
+        "synopsis": "Alors que le royaume de Wakanda pleure la perte de son roi, la princesse Shuri, aux côtés de ses alliés, doit faire face à de nouvelles menaces qui mettent en péril l'avenir de Wakanda et du monde entier.",
+        "year": 2022,
+        "director": "Ryan Coogler"
+    }
+]
